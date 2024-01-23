@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Carloan(failed)">
+    <classes>
+      <class name="testNGPackage.ThirdTestNGClass">
+        <methods>
+          <include name="managerlogin"/>
+        </methods>
+      </class> <!-- testNGPackage.ThirdTestNGClass -->
+    </classes>
+  </test> <!-- Carloan(failed) -->
+</suite> <!-- Failed suite [Suite] -->

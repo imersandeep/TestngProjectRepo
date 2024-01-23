@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [User Login Details]" guice-stage="DEVELOPMENT">
+  <parameter name="BaseURL" value="qaacharya.in"/>
+  <test name="userSignup(failed)">
+    <classes>
+      <class name="testNGPackage.ParameterizationinTestNG">
+        <methods>
+          <include name="testmetnod"/>
+        </methods>
+      </class> <!-- testNGPackage.ParameterizationinTestNG -->
+    </classes>
+  </test> <!-- userSignup(failed) -->
+</suite> <!-- Failed suite [User Login Details] -->
