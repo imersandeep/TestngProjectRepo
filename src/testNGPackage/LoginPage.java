@@ -1,4 +1,4 @@
-package testNGPackage;
+ package testNGPackage;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
@@ -53,7 +53,7 @@ public class LoginPage {
         	System.out.println("valid Message ");
         }
         else {
-        	System.out.println("invalid Message");
+        	System.out.println("invalid Message tt");
         }
         alt.accept();
     }
