@@ -54,7 +54,7 @@ public class LoginPage {
         }
         else {
         	System.out.println("invalid Message tt");
-        	System.out.println("invalid Message tt new");
+        	
 
         }
         alt.accept();
